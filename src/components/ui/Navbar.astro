@@ -1,5 +1,6 @@
 ---
 import { Image } from "astro:assets";
+import Logo from "../logo.astro";
 
 const navLinks = [
   {
@@ -40,7 +41,7 @@ import brand from "../../assets/brand.svg";
     <!-- Brand -->
     <div class="pl-4 xl:flex-none">
       <a href="#home">
-        <Image src={brand} alt="Brand Logo" class="w-[219px]" loading="eager" />
+        <Logo/>
       </a>
     </div>
 

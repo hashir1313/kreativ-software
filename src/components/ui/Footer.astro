@@ -2,9 +2,9 @@
 import { Image } from "astro:assets";
 import Facebook from "../../assets/facebook.svg";
 import Linkedin from "../../assets/linkedin.svg";
-import Logo from "../../assets/logo-alt.svg";
 import Twitter from "../../assets/twitter.svg";
 import ShortForm from "../ui/ShortForm.astro";
+import Logo from "../logo.astro";
 
 const logos = [
   { name: "Facebook", src: Facebook, link: "https://facebook.com" },
@@ -32,7 +32,7 @@ const links = [
         >
           <picture>
             <a href="#home">
-              <Image src={Logo} alt="Logo for Kreatif Brand" />
+              <Logo color="white"/>
             </a>
           </picture>
           <ul class="flex flex-col sm:flex-row gap-5">

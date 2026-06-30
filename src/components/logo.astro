@@ -1,0 +1,20 @@
+---
+import { Image } from "astro:assets";
+import logoWhite from "../assets/logo-alt.svg";
+import logoBlack from "../assets/brand.svg";
+
+interface Props {
+  color?: "white" | "black";
+}
+
+const { color = "black" } = Astro.props;
+---
+
+<a href="#home" class="flex items-center gap-2">
+  {color === "white" ? (
+    <Image src={logoWhite} alt="Logo" class="w-9 h-9" loading="eager" />
+  ) : (
+    <Image src={logoBlack} alt="Logo" class="w-9 h-9" loading="eager" />
+  )}
+  <span class={"text-2xl font-bold tracking-tight " + color === "white" ? ("test-white") : ("text-black")} >Hifza</span>
+</a>
