@@ -16,5 +16,9 @@ const { color = "black" } = Astro.props;
   ) : (
     <Image src={logoBlack} alt="Logo" class="w-9 h-9" loading="eager" />
   )}
-  <span class={"text-2xl font-bold tracking-tight " + color === "white" ? ("test-white") : ("text-black")} >Hifza</span>
+  {color === "white" ? (
+    <span class="text-2xl font-bold tracking-tight text-white" >Hifza</span>
+  ) : (
+    <span class="text-2xl font-bold tracking-tight text-black" >Hifza</span>
+  )}
 </a>
