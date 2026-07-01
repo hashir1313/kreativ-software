@@ -1,27 +1,9 @@
 [
   {
-    "slug": "search-engine-optimization",
-    "title": "Search Engine Optimization",
-    "shortTitle": "Search Engine\nOptimization",
-    "index": 1,
-    "image": "../../assets/pics/card-pic1.png",
-    "color": "white",
-    "description": "Boost your visibility on search engines with data-driven SEO strategies. We handle keyword research, on-page optimization, technical audits, and link building to drive organic traffic that converts.",
-    "features": ["Keyword Research", "On-Page SEO", "Technical Audits", "Link Building"],
-    "details": [
-      "Comprehensive site audit to identify technical issues and opportunities",
-      "Keyword strategy tailored to your industry and competition",
-      "On-page optimization including meta tags, headings, and internal linking",
-      "High-quality link building to boost domain authority",
-      "Monthly reporting with clear KPIs and action items"
-    ],
-    "heroText": "We help businesses rank higher on Google and attract qualified organic visitors through proven SEO strategies."
-  },
-  {
     "slug": "social-media-marketing",
     "title": "Social Media Marketing",
     "shortTitle": "Social Media\nMarketing",
-    "index": 2,
+    "index": 1,
     "image": "../../assets/pics/card-pic3.png",
     "color": "green",
     "description": "Build a loyal community and amplify your brand voice across social platforms. From content calendars to engagement strategies, we turn followers into customers.",

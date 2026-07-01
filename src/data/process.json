@@ -1,26 +1,26 @@
 [
   {
-    "title": "First Item",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+    "title": "Discovery",
+    "description": "We start by understanding your business, goals, target audience, and current marketing landscape. This foundational step ensures every strategy we build is aligned with your unique objectives."
   },
   {
-    "title": "Second Item",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+    "title": "Research & Analysis",
+    "description": "Our team conducts in-depth keyword research, competitor analysis, and market audits for SEO. For social media, we analyze your audience behavior, platform trends, and content performance benchmarks."
   },
   {
-    "title": "Third Item",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+    "title": "Strategy Development",
+    "description": "Based on our findings, we craft a tailored strategy encompassing SEO roadmaps, content calendars, paid campaign structures, and engagement tactics designed to maximize your ROI."
   },
   {
-    "title": "Fourth Item",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+    "title": "Implementation",
+    "description": "We execute the strategy across all channels—optimizing your website, launching social campaigns, creating content, and setting up tracking infrastructure to measure every interaction."
   },
   {
-    "title": "Fifth Item",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+    "title": "Monitoring & Optimization",
+    "description": "Performance is tracked in real-time. We continuously refine campaigns, adjust keyword targeting, A/B test social content, and optimize ad spend to ensure sustained growth."
   },
   {
-    "title": "Sixth Item",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+    "title": "Reporting & Scaling",
+    "description": "You receive transparent monthly reports with clear KPIs and actionable insights. As results compound, we identify new opportunities to scale and expand your digital presence."
   }
 ]
